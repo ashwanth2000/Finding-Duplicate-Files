@@ -1,0 +1,760 @@
+C:\Program Files\MySQL\MySQL Shell 8.0\lib\Python3.10\Lib\site-packages\pip\_internal\index
+C:\Users\Ashwanth\.AndroidStudio3.6\system\index
+C:\Users\Ashwanth\.p2\pool\plugins\org.eclipse.m2e.maven.indexer_1.13.0.20190716-1623\org\apache\maven\index
+C:\Users\Ashwanth\.p2\pool\plugins\org.eclipse.m2e.maven.indexer_1.18.1.20211011-2139\org\apache\maven\index
+C:\Users\Ashwanth\.vagrant.d\data\machine-index\index
+C:\Users\Ashwanth\adh\.git\index
+C:\Users\Ashwanth\AppData\Local\Cisco Packet Tracer\cache\QtWebEngine\Default\Cache\index
+C:\Users\Ashwanth\AppData\Local\Cisco Packet Tracer\QtWebEngine\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0b4725b0d32d30e48080091627234866cdac6cb8\e0ad71d0-0b75-430b-8493-b56706386cda\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\3dac2bf0-67bc-439b-9f8b-07b5a7b01809\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6ee025da-428d-4f04-a789-dec0763db394\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\81393281-a2ad-45be-bd8e-1d99abbf076f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\987f9acb-4456-492f-8f15-6b9d2639a06c\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\b4cf96e7-62df-4839-beba-fdd60cf4ae1d\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\c3c9a01e-2b6e-4005-bd5d-f7163b8982f5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0d1b3475c13b09689e6ef0b556d68af79b7b3495\c7c8145e-e6ce-445f-86c8-98366e9a2e03\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0f0e6c91b5c391874ecff18158e843cfb38214bf\691f1b50-1bb4-4567-8fdb-dd587377171f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0f0e6c91b5c391874ecff18158e843cfb38214bf\ba26d2fd-b40a-453f-869e-49f03eae41b7\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1182b646fe1b7c2fb535f6df1b863e7a17f43db5\1fd00e15-f85e-4263-a971-42763c44122e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1182b646fe1b7c2fb535f6df1b863e7a17f43db5\26544c47-6896-4aa1-9b4b-c1885167807a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1182b646fe1b7c2fb535f6df1b863e7a17f43db5\7e2a27b6-a467-4aa1-b48e-b75bbde0c556\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\14da41eaf91043f3404b159d30d514e978be7af3\324fff47-08fe-4b90-8221-2c2b0768a430\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\1ca6b28a-ed50-4387-b04b-c559b5028d91\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\1e904994-1383-4eb2-b9f6-d81b26e9f0d7\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\a6d7b67b-4984-402e-8ee2-e7a81ef034a1\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\d2fb7781-57e3-4b94-8050-c57cbff677bb\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\dcf967fa-5f42-4216-ac5f-c994ae27494a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\16c2fb4b7d08f6bf42d08ec3ca3dd88818bde971\01683db4-e76d-401b-9e8c-62c9b654df2e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\16c2fb4b7d08f6bf42d08ec3ca3dd88818bde971\e56e15c9-50b6-4e9e-8ca6-314ff44aa275\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1ba000ec2cec543c4e27228d4cd4aef8ae1e8408\747831fa-813d-48c2-a426-3967400694d5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1e538fbb9a411578d5bec848a4a4b012e8b26441\23d46ebc-f8b4-4884-917d-371b34217075\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\033fe0d6-7fcd-4ca3-845c-ac5b79a68f24\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\1b3e8d49-b39d-4e9c-9106-7b869fa37575\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\740c7cee-5360-4f53-a1e7-dbc5e385a3e6\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\c3ade670-22d8-4ebb-97d3-3322c489420c\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\cf42d236-0bbd-466f-b0f6-3393984f746d\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\28da9c56fde4021055a681112c092453f74d8dd8\537ec1ec-65d1-427e-b3b7-cd62725f45bd\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\07170e71-b04a-4a96-8ee4-36df2e97c09d\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\27364691-eba1-444e-bc84-8d208620aec6\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\8e4620e0-1dc7-4419-bdbb-ec42df5dac55\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\9acd71c8-1e88-497a-989a-dcb4907dc8c5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\a33aa12a-6864-4b29-bbcd-c59b13a05359\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\ae503d24-629f-46a3-9049-c2f96f06ddd9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\c73a038b-2840-4ce5-acbb-7c4e944bbc80\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\eec5f851-256a-4e6c-8921-9aefe210fb18\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\f6cabeea-bdd4-437a-89d3-1a88830eba56\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\fe493feb-1909-44b4-aa97-c9066805f793\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4\75c888a1-6ed3-4158-8b9b-46b277c83e2a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4\96e5c7ac-989d-46d6-a673-1d32733636e7\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2fbc52e7e1d44681d5b69fb1e9ce3102a395eb5a\218b49a7-713d-492c-8eaf-a36146ea9a6e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2fbc52e7e1d44681d5b69fb1e9ce3102a395eb5a\b964d1bb-0b5e-4640-aef8-e8c065186933\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2fbc52e7e1d44681d5b69fb1e9ce3102a395eb5a\e875ab98-6f4b-427e-ab12-c4580be45ad0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88\735149d9-9a56-4d08-a597-9eda302329d5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88\975f2857-822a-4033-bf75-15ba2039246c\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\3874173dea5b897f242177d2aceb180f332a60bb\f6160a97-f43f-41be-910e-c34fb2e0de30\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\397e5d81bdb71a423054f3b5524da80fc3c2e3bb\1e2f4662-4e39-4688-b610-381d101a145d\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\397e5d81bdb71a423054f3b5524da80fc3c2e3bb\939c7acd-cd2f-4d02-9a7a-7e2c10f2f081\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\397e5d81bdb71a423054f3b5524da80fc3c2e3bb\d9dc0771-e4bf-416d-a361-4809c8b45b57\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\397e5d81bdb71a423054f3b5524da80fc3c2e3bb\fd631d98-b1e7-467c-b541-ca4968511073\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\475fd4d71193ef441f84b57aa7cfcce2dea51d83\dc041d08-3912-421c-a6c7-564af03bd4a9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\488bc62ef43ae19bb2aefacb07f19ddc48dcca9f\b08541fb-12cd-43d7-9e4d-765283a2a156\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\571988c4897ef87c20ec4d6b13878cf6c36e1caf\267fbd0a-0227-477d-be4e-065dfba2caa0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\571988c4897ef87c20ec4d6b13878cf6c36e1caf\42230a73-aefb-42a2-acb0-ac2f41cbf630\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\571988c4897ef87c20ec4d6b13878cf6c36e1caf\d9d06757-c807-4aa0-8ee6-70cc49258059\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\06f372ad-d306-439e-9199-2b675bf963ee\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\31a66425-5a31-4dff-81de-42986cfa828e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\51fd005b-bbf4-4da7-a48f-ad182798d951\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\94e376f6-9be8-4cc5-a9bf-64c01784d0aa\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\d24b4ad4-4728-42fc-ae18-8d308f976a34\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\f3eba5ea-e8bb-4c38-9d1a-ffbfc2f098c9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\f86c4c0c-0508-4cfb-ad4c-b67de460a7a4\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\5ce50966647b163092d864b9f37d981f5bccd871\faf14429-2483-4e5e-a9e9-cd0a00125b85\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\5dceb26707589a12745ce1cbbdbc2c7773a2f2fb\7884330d-1c3e-4c5c-9b55-554f0155ee37\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\5dceb26707589a12745ce1cbbdbc2c7773a2f2fb\c6d42f84-8654-4a51-b67d-1e387232d4da\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\60a4e83bc12a6bab7fba9f922c1a5df0abb0d49b\b860eef5-fa44-42cc-bea4-c413da7a2319\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\62bba599937b7b1dbfd436802b86860f2541d5d9\90681f4d-0410-4bdf-a6bc-52983390cf37\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\6339618476c44afe7b11a1b17af2cabb5a596e4e\01c6fd00-c528-4795-ac2c-e598132690ad\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\76ef9e5953a1ba4578548bb32235240a9f0e0ca2\4149b420-2cfa-4994-b2cd-ffdd6ff5e6de\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\772be0c70dfb60b01f4ab0464ac0ade25de82e9f\bbbf736d-4f22-4a5a-8e5a-7d9546a78aa1\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\7b539bde8ca0807396a791d6ee4db1189d0e5380\7b048d24-5ee5-4335-9dfe-90fbd8791c22\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\7d309b41522c3a3c327db50659d1d25e21afef65\b268e784-564c-4736-b121-18880a1465d0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\867989a2792ba3da5672a3d9c259b0fab56117ff\3d2667cc-af00-4e0a-b536-36b15ec1964b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\867989a2792ba3da5672a3d9c259b0fab56117ff\6df1a30a-989e-42fb-b885-fbe0807eab2f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\8f704b33f00e90fe6ba60f83a59039aecc9cf206\3d82ba29-34ea-4592-8284-3066554b94cc\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\8f7abdeb3486c1b8780fede76afc20e044eff1b5\a6cd476e-597a-42e3-a757-2067f96ca549\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\8f7abdeb3486c1b8780fede76afc20e044eff1b5\aa8a694d-5b51-4aaf-9357-00ff08694b14\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\94bb37fe83f43b35539bf3aea22e93c02d109cc2\7e7fd39f-b6e0-4606-a472-2b32e117244b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\94bb37fe83f43b35539bf3aea22e93c02d109cc2\aed4a783-ada8-4db5-8804-b2d545531c00\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\94bb37fe83f43b35539bf3aea22e93c02d109cc2\cc4465c8-aa22-40b4-b1e7-8d1f91456c5c\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\94bb37fe83f43b35539bf3aea22e93c02d109cc2\f5cd4183-791f-4ebb-a74d-5945a2628498\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\974d5cad73b47fd6dccf488080da16e3233a6e03\1ac1a807-12f0-4ade-82cd-c6e4fe51d914\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\974d5cad73b47fd6dccf488080da16e3233a6e03\37a3d5a1-64ba-4939-a08e-50830560968e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\99b39c2a4e67e3b166fb70fb244a5ba14e44d5fb\543d42e5-b5e2-416e-a5e3-8b1d23086fdc\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\9d4496920779a5289586fb43b67b98c88b69d6da\44fe3d63-e2b9-4f1a-979c-b2a11478cfd3\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a00001bb2dc925c8a9ebdf2384698b2f46ee2231\593cc0a5-f688-4bbf-af96-6182562fc011\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a00001bb2dc925c8a9ebdf2384698b2f46ee2231\6e4989ab-64a0-42ef-b023-b90afd680d1f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a00001bb2dc925c8a9ebdf2384698b2f46ee2231\fba62a88-da58-4bde-bf72-f89301aa10ba\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a00001bb2dc925c8a9ebdf2384698b2f46ee2231\fd8858fa-9380-4c7b-92a3-70fca7070cb0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a0a74304db73132d4bc12ef9404aa74f9fdeda56\35868b57-6fb3-40f5-9423-828213b30334\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a0a74304db73132d4bc12ef9404aa74f9fdeda56\43cbcead-3374-4c69-aa5d-095277cc4cb6\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a63c6f26108aba063e47e01f086871adfc82136f\49133693-ebc4-42f3-8276-3382250a6f10\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a63c6f26108aba063e47e01f086871adfc82136f\d8531980-dc46-4d9e-a465-d8b73350ae5b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a64819d5920fe8ad918f870b4fad0148957dff45\2981b659-17db-41af-b28a-39f8d6adb2e9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a8c65fb626fecc399c55ddb8837842b771e4da80\3202539e-0b75-4b97-b7f2-ec99b7b721ba\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a8c65fb626fecc399c55ddb8837842b771e4da80\573628d4-7c1a-4fb2-8d21-d95f7775b803\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a8c65fb626fecc399c55ddb8837842b771e4da80\ee6627ce-197b-4111-8039-3a6d8071d0b1\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a9bfc10c216e0aacac1bfce11d6845efd7cde75d\db19f3e6-2101-4828-8253-b6f715bd2d0b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a9e61990044ea14ff0ffa01e9b00c15162479815\55715477-2d96-41e9-b8ec-f13cb1b64995\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a9e61990044ea14ff0ffa01e9b00c15162479815\636d31d9-7a74-46d5-8839-94802726ae89\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\ac287265b5566210d2ef7236b2901fe13f3340b5\f6d9f40c-fee2-45f6-987a-89d601955de9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\b98637bb7ae2171a737905d5907291f63b4218a2\721b461e-a1a1-4928-b796-081f4cc4cb21\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\bc266fa41530e589d1837d357900ba36c06daddb\422efd89-3c70-4cec-8177-81c31339a121\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c19b506c7275cd62fcc6c44e1519caf2d62b46c8\0a3db87a-96ed-4d4c-81fd-fe2d3e10f3be\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c19b506c7275cd62fcc6c44e1519caf2d62b46c8\0b031043-66ee-46bc-b164-b74dcbc37d2b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c68e494a4097194cf9d95d6878c3077df0a19b0e\715a8ee3-8b19-41c1-a78d-527657f7e197\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c68e494a4097194cf9d95d6878c3077df0a19b0e\9baeea35-e464-4963-89b6-24313c224ab0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c97bc7c04aa5cb6caf663d986499146dda0be386\df98624f-320c-49c6-937b-d46b785ef9ee\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\cb158d6523c5ab1d740cf75a71a32b211a1c579f\e93fd5a7-5aef-40ec-b623-88ec17432b70\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\d1394a4c842f7861ad7ae5e20da4b484a0c4acad\042f959a-8981-4acd-a9e5-91b1c7160764\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\d1394a4c842f7861ad7ae5e20da4b484a0c4acad\70c433a4-7aa0-4afd-b9e1-b27bc8f66273\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\d1394a4c842f7861ad7ae5e20da4b484a0c4acad\88c50212-7d89-4af5-a646-c1e5a660e6a8\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\d1394a4c842f7861ad7ae5e20da4b484a0c4acad\d1b1a9b5-cd6a-44bf-91dd-3b685d2394d4\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\e67c1f6a379083558ae1517ab8447344c6938b1b\92069bf7-2fa4-430b-b6d8-1d07e2b4c25e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\e67c1f6a379083558ae1517ab8447344c6938b1b\97e48f80-f2db-4ad9-9a44-d8b94012b9d0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\eed543ca503e67e8e5a00977e789a75b7f3087cc\78a80c69-5e5d-461f-9096-756368b1522f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\eed543ca503e67e8e5a00977e789a75b7f3087cc\a5bf3cd4-3e37-45e7-8f7e-45a555907480\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\eed543ca503e67e8e5a00977e789a75b7f3087cc\bbd7ca53-d01e-4c0d-91a9-430c8352bc9e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\eed543ca503e67e8e5a00977e789a75b7f3087cc\cbdf01f6-b245-4f8a-9340-9204fb064c6e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\0896fcf6-b0e2-4b88-a929-2a649f5f60f8\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\0e8784b1-518c-42d4-81a8-9bdd57d4eff2\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\197b20ab-d540-46f3-8a42-c7f0a9cf06db\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\1d30ee48-a360-49fd-ad56-0e2bb682ed44\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\2c126b62-4556-44ee-924f-457e05a8f7b1\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\456d7e1d-c9c3-49ea-a9a6-42d81e9f8909\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\4b56bd28-494d-4636-a7e0-ecdd196de88b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\773f1e99-2673-432d-bcd6-02ef4d64f8c5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\84dae6e5-f709-4e5c-8d5d-24a9d6b0a1b2\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\8bc41978-981e-4260-989d-6f599533f9d8\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\8f80d50a-0ea9-454c-b58e-8e6fed73f1c2\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\c2cc795c-d111-44b9-ad47-98c755e0fa5f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\cfb42ba1-553b-47c1-9381-57fab99e7a87\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\04bbce58-81db-419d-9ca8-c6baf54aa2eb\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\119e466a-2380-487b-99f5-a8667605abee\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\1a8d7ee1-2379-449b-8520-611907933472\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\252d0e36-2ab2-4b77-ab59-d3cd3d50d595\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\2a877b0c-bbfa-4ffb-98fd-f96807870423\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\37bca71b-7edb-4542-9606-bede636c858a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\4d8b4ea4-2a4b-439c-af7f-6e28aa332a3a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\9ee7d451-4bb8-4d93-b4b2-6d02188c2595\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\e9e54946-4908-44dc-8d47-ed43324d5e1f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\fa9894c1ce7644056136fc3533040a2a7fc2b66c\05e9af02-e1a5-45f8-82df-1a3206822496\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\fa9894c1ce7644056136fc3533040a2a7fc2b66c\3297fd32-97b4-4f89-a371-3a795b402821\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Guest Profile\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Guest Profile\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Guest Profile\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\PnaclTranslationCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\ShaderCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\System Profile\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\System Profile\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\System Profile\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\JetBrains\PyCharmCE2022.2\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\0b4725b0d32d30e48080091627234866cdac6cb8\fc927dc8-2a83-4403-a091-8333a34e677a\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\28da9c56fde4021055a681112c092453f74d8dd8\2e213689-199c-4b9f-a5e3-e4ef64b9445a\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\4b95c47e-57d8-49de-a4c3-911542c78eaa\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88\cad54a2c-e31b-43d1-9925-f4dff50b089e\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\72931251-177f-44aa-a201-b12dac91c59c\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\77e5bbf2-1440-49a4-9d99-4962787c4b6d\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\7ae69d95-0fd2-4b77-bf9a-103ee1055c6b\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\80a7936a-4c64-4151-9ca2-6cac3735a64a\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\af26cf13-36d3-4cda-9644-8ece93a12572\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\af4f6f81-f24c-4a32-88b4-ca1459a98ab9\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\e584f0f0-da20-4e4a-acfd-a576f5100d79\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\GrShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\ShaderCache\index
+C:\Users\Ashwanth\AppData\Local\NVIDIA Corporation\NVIDIA GeForce Experience\CefCache\Cache\index
+C:\Users\Ashwanth\AppData\Local\NVIDIA Corporation\NVIDIA GeForce Experience\CefCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\NVIDIA Corporation\NVIDIA Share\CefCache\Cache\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalCache\Roaming\Microsoft\Skype for Store\Cache\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalCache\Roaming\Microsoft\Skype for Store\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalCache\Roaming\Microsoft\Skype for Store\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalCache\Roaming\Microsoft\Skype for Store\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\LocalCache\perUserCache_00030000D739FB37\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Service Worker\CacheStorage\a957449e0c17def967fb86220c8cab1d9f0a68fc\290df21b-6dd7-4af5-ad2c-56b32566312c\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Service Worker\CacheStorage\a957449e0c17def967fb86220c8cab1d9f0a68fc\391573f2-6ddd-4318-b822-1605b3454d70\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\GrShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\CacheStorage\a892b700b932fb8ff36350643b5733bd1496c80b\13f81a5c-876f-4dab-b35d-24190c2e3678\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\CacheStorage\a892b700b932fb8ff36350643b5733bd1496c80b\7f53b58f-c52f-4663-bd07-72f4cb498e25\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\index
+C:\Users\Ashwanth\AppData\Local\pypa\virtualenv\wheel\3.10\image\1\CopyPipInstall\pip-21.3.1-py3-none-any\pip\_internal\index
+C:\Users\Ashwanth\AppData\Local\Spotify\Browser\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Spotify\Browser\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Spotify\Browser\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Spotify\Browser\GPUCache\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\GrShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\6261075646f055b99068d3688932416f2346dd3b\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\6261075646f055b99068d3688932416f2346dd3b\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\64bbfbf67ada9953918d72e1df2f4d8e537d340e\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\64bbfbf67ada9953918d72e1df2f4d8e537d340e\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\74b1f979648cc44d385a2286793c226e611f59e7\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\74b1f979648cc44d385a2286793c226e611f59e7\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\8fa188b2b301d36553cbc9ce1b0a146ccb93351f\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\8fa188b2b301d36553cbc9ce1b0a146ccb93351f\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\d045a5eda657f4d7b676dedbfa7aab8207f8a075\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\d045a5eda657f4d7b676dedbfa7aab8207f8a075\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\1f436a803becca1b73bd2f7e371d36cd9beac264\2f62f62f-30f0-4bcd-9ec0-7000cf1872e9\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\47e473a4619891ca426d075e5e55e399f9796a11\1538755e-b945-45c7-9016-5f0e917b7421\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\50a93f03b4c4faeb55d098e68cc9d3fa19e9a0b6\7ebc6a1e-1e15-4fcb-9e90-a108ec88b447\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\51404600c07cd03d16281119847f44b0e876b391\4c09edeb-20d1-4140-ae9b-d59b638a0c1e\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\b5421a2a3f4e2fccad7a69e56ead767f8d717235\3f66ab67-5a4d-41f1-8398-5e6ee76d1813\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\b828cfe28445164726155d9f401565748294151a\b3c8a349-6068-418f-8a3e-a4fca3061c90\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\b83621c44eb2accfc233847a570fb14e516e0227\c90a264d-589d-4069-8a03-70c70eb8fc5b\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\e51614cdf47f73d67c8067740f380a4819166bbc\8fbcc180-1c8b-46f5-ac07-55bad5091791\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\ShaderCache\index
+C:\Users\Ashwanth\AppData\Roaming\GitHub Desktop\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\GitHub Desktop\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\GitHub Desktop\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\GitHub Desktop\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\et\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\et\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\et\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\KWPSBubble\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\KWPSBubble\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\KWPSBubble\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\pdf\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\pdf\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wps\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wps\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wps\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wpsoffice\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wpsoffice\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wpsoffice\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\et\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\et\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\KWPSBubble\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\KWPSBubble\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\KWPSBubble\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\pdf\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\pdf\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wps\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wps\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wps\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wpsoffice\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wpsoffice\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wpsoffice\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\promeapps\cookie\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\promeapps\cookie\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\promeapps\cookie\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\LGHUB\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\LGHUB\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\LGHUB\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\LGHUB\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Service Worker\CacheStorage\53b563de69a8e9800e38f66c9c19e1e0dbd5106a\bd9187d7-9194-4168-87c7-2cbc61eaf465\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Service Worker\CacheStorage\53b563de69a8e9800e38f66c9c19e1e0dbd5106a\c7e5028c-0aa2-4a6d-9678-a49eaafca8b5\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\dfed57af-cb79-4f44-a13d-9f5e11ee6a54\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\dfed57af-cb79-4f44-a13d-9f5e11ee6a54\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\dfed57af-cb79-4f44-a13d-9f5e11ee6a54\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\dfed57af-cb79-4f44-a13d-9f5e11ee6a54\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_shell\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_shell\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_shell\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_shell\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_d3c67e5e-f3b5-4341-af34-2817b54e52cb\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_d3c67e5e-f3b5-4341-af34-2817b54e52cb\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_d3c67e5e-f3b5-4341-af34-2817b54e52cb\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_null\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_null\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_null\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\ShaderCache\index
+C:\Users\Ashwanth\git\jasper_report\.git\index
+C:\Users\Ashwanth\OneDrive\Desktop\Docs\Eclipse\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.16.0.20200610-1735\org\apache\maven\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Cache\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Code Cache\js\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Code Cache\wasm\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\GPUCache\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Service Worker\CacheStorage\7c129e28a53a20755871f994f1997209760a9724\7541db70-48c8-462c-a4f6-72cf275bc87a\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Renderer\Cache\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Renderer\Code Cache\js\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Renderer\Code Cache\wasm\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Renderer\GPUCache\index
+C:\Windows\diagnostics\index
+F:\dict_python\Lib\site-packages\pip\_internal\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\configuration\org.eclipse.help.base\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\401\0\.cp\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\655\0\.cp\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\683\0\.cp\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.18.1.20211011-2139\org\apache\maven\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\Kshin\admitcard-content.pdf\.git\index
+F:\GitHub Desktop\Birthday-gift-card\.git\index
+F:\GitHub Desktop\Birthday_gift\.git\index
+F:\GitHub Desktop\Socreboard\.git\index
+F:\GitHub Desktop\Tourist-Place-Guide\.git\index
+F:\GitHub Desktop\Yarn_Counter\.git\index
+F:\list_assignements\python_control_structures\Lib\site-packages\pip\_internal\index
+F:\python_controlStructures\python_control_structures\Lib\site-packages\pip\_internal\index
+F:\python_func\Lib\site-packages\pip\_internal\index
+F:\python_list\python_control_structures\Lib\site-packages\pip\_internal\index
+F:\python_loops\python_control_structures\Lib\site-packages\pip\_internal\index
+F:\set_assignments\Lib\site-packages\pip\_internal\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.help.base\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\221\0\.cp\org\eclipse\equinox\internal\p2\metadata\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\221\0\.cp\org\eclipse\equinox\p2\metadata\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\245\0\.cp\org\eclipse\help\internal\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\262\0\.cp\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\337\0\.cp\org\eclipse\m2e\core\internal\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\388\0\.cp\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\408\0\.cp\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\578\0\.cp\org\tukaani\xz\index
+F:\TechLeap\fundamentals_python\Lib\site-packages\pip\_internal\index
+F:\TIBCO\TIB_js-studiocomm_6.20.0_windows_x86_64\jaspersoftstudio\configuration\org.eclipse.help.base\index
+F:\TIBCO\TIB_js-studiocomm_6.20.0_windows_x86_64\jaspersoftstudio\configuration\org.eclipse.osgi\241\0\.cp\index
+F:\TIBCO\TIB_js-studiocomm_6.20.0_windows_x86_64\jaspersoftstudio\configuration\org.eclipse.osgi\280\0\.cp\index
+F:\tuple_assigments\Lib\site-packages\pip\_internal\index
+C:\Program Files\MySQL\MySQL Shell 8.0\lib\Python3.10\Lib\site-packages\pip\_internal\index
+C:\Users\Ashwanth\.AndroidStudio3.6\system\index
+C:\Users\Ashwanth\.p2\pool\plugins\org.eclipse.m2e.maven.indexer_1.13.0.20190716-1623\org\apache\maven\index
+C:\Users\Ashwanth\.p2\pool\plugins\org.eclipse.m2e.maven.indexer_1.18.1.20211011-2139\org\apache\maven\index
+C:\Users\Ashwanth\.vagrant.d\data\machine-index\index
+C:\Users\Ashwanth\adh\.git\index
+C:\Users\Ashwanth\AppData\Local\Cisco Packet Tracer\cache\QtWebEngine\Default\Cache\index
+C:\Users\Ashwanth\AppData\Local\Cisco Packet Tracer\QtWebEngine\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0b4725b0d32d30e48080091627234866cdac6cb8\e0ad71d0-0b75-430b-8493-b56706386cda\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\3dac2bf0-67bc-439b-9f8b-07b5a7b01809\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\6ee025da-428d-4f04-a789-dec0763db394\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\81393281-a2ad-45be-bd8e-1d99abbf076f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\987f9acb-4456-492f-8f15-6b9d2639a06c\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\b4cf96e7-62df-4839-beba-fdd60cf4ae1d\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0bf6ab7f94a21cdc9c1649f884333ec20f40a544\c3c9a01e-2b6e-4005-bd5d-f7163b8982f5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0d1b3475c13b09689e6ef0b556d68af79b7b3495\c7c8145e-e6ce-445f-86c8-98366e9a2e03\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0f0e6c91b5c391874ecff18158e843cfb38214bf\691f1b50-1bb4-4567-8fdb-dd587377171f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\0f0e6c91b5c391874ecff18158e843cfb38214bf\ba26d2fd-b40a-453f-869e-49f03eae41b7\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1182b646fe1b7c2fb535f6df1b863e7a17f43db5\1fd00e15-f85e-4263-a971-42763c44122e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1182b646fe1b7c2fb535f6df1b863e7a17f43db5\26544c47-6896-4aa1-9b4b-c1885167807a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1182b646fe1b7c2fb535f6df1b863e7a17f43db5\7e2a27b6-a467-4aa1-b48e-b75bbde0c556\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\14da41eaf91043f3404b159d30d514e978be7af3\324fff47-08fe-4b90-8221-2c2b0768a430\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\1ca6b28a-ed50-4387-b04b-c559b5028d91\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\1e904994-1383-4eb2-b9f6-d81b26e9f0d7\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\a6d7b67b-4984-402e-8ee2-e7a81ef034a1\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\d2fb7781-57e3-4b94-8050-c57cbff677bb\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1586e4be921136db3aef0573d584ad27c52cbf0d\dcf967fa-5f42-4216-ac5f-c994ae27494a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\16c2fb4b7d08f6bf42d08ec3ca3dd88818bde971\01683db4-e76d-401b-9e8c-62c9b654df2e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\16c2fb4b7d08f6bf42d08ec3ca3dd88818bde971\e56e15c9-50b6-4e9e-8ca6-314ff44aa275\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1ba000ec2cec543c4e27228d4cd4aef8ae1e8408\747831fa-813d-48c2-a426-3967400694d5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\1e538fbb9a411578d5bec848a4a4b012e8b26441\23d46ebc-f8b4-4884-917d-371b34217075\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\033fe0d6-7fcd-4ca3-845c-ac5b79a68f24\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\1b3e8d49-b39d-4e9c-9106-7b869fa37575\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\740c7cee-5360-4f53-a1e7-dbc5e385a3e6\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\c3ade670-22d8-4ebb-97d3-3322c489420c\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\266ccfc6acb295eb747768b4883bb0b142b82922\cf42d236-0bbd-466f-b0f6-3393984f746d\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\28da9c56fde4021055a681112c092453f74d8dd8\537ec1ec-65d1-427e-b3b7-cd62725f45bd\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\07170e71-b04a-4a96-8ee4-36df2e97c09d\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\27364691-eba1-444e-bc84-8d208620aec6\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\8e4620e0-1dc7-4419-bdbb-ec42df5dac55\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\9acd71c8-1e88-497a-989a-dcb4907dc8c5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\a33aa12a-6864-4b29-bbcd-c59b13a05359\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\ae503d24-629f-46a3-9049-c2f96f06ddd9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\c73a038b-2840-4ce5-acbb-7c4e944bbc80\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\eec5f851-256a-4e6c-8921-9aefe210fb18\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\f6cabeea-bdd4-437a-89d3-1a88830eba56\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\fe493feb-1909-44b4-aa97-c9066805f793\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4\75c888a1-6ed3-4158-8b9b-46b277c83e2a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4\96e5c7ac-989d-46d6-a673-1d32733636e7\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2fbc52e7e1d44681d5b69fb1e9ce3102a395eb5a\218b49a7-713d-492c-8eaf-a36146ea9a6e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2fbc52e7e1d44681d5b69fb1e9ce3102a395eb5a\b964d1bb-0b5e-4640-aef8-e8c065186933\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\2fbc52e7e1d44681d5b69fb1e9ce3102a395eb5a\e875ab98-6f4b-427e-ab12-c4580be45ad0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88\735149d9-9a56-4d08-a597-9eda302329d5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88\975f2857-822a-4033-bf75-15ba2039246c\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\3874173dea5b897f242177d2aceb180f332a60bb\f6160a97-f43f-41be-910e-c34fb2e0de30\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\397e5d81bdb71a423054f3b5524da80fc3c2e3bb\1e2f4662-4e39-4688-b610-381d101a145d\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\397e5d81bdb71a423054f3b5524da80fc3c2e3bb\939c7acd-cd2f-4d02-9a7a-7e2c10f2f081\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\397e5d81bdb71a423054f3b5524da80fc3c2e3bb\d9dc0771-e4bf-416d-a361-4809c8b45b57\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\397e5d81bdb71a423054f3b5524da80fc3c2e3bb\fd631d98-b1e7-467c-b541-ca4968511073\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\475fd4d71193ef441f84b57aa7cfcce2dea51d83\dc041d08-3912-421c-a6c7-564af03bd4a9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\488bc62ef43ae19bb2aefacb07f19ddc48dcca9f\b08541fb-12cd-43d7-9e4d-765283a2a156\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\571988c4897ef87c20ec4d6b13878cf6c36e1caf\267fbd0a-0227-477d-be4e-065dfba2caa0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\571988c4897ef87c20ec4d6b13878cf6c36e1caf\42230a73-aefb-42a2-acb0-ac2f41cbf630\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\571988c4897ef87c20ec4d6b13878cf6c36e1caf\d9d06757-c807-4aa0-8ee6-70cc49258059\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\06f372ad-d306-439e-9199-2b675bf963ee\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\31a66425-5a31-4dff-81de-42986cfa828e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\51fd005b-bbf4-4da7-a48f-ad182798d951\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\94e376f6-9be8-4cc5-a9bf-64c01784d0aa\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\d24b4ad4-4728-42fc-ae18-8d308f976a34\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\f3eba5ea-e8bb-4c38-9d1a-ffbfc2f098c9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\579544fd7d0441717f082c9eb123588966aa57ac\f86c4c0c-0508-4cfb-ad4c-b67de460a7a4\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\5ce50966647b163092d864b9f37d981f5bccd871\faf14429-2483-4e5e-a9e9-cd0a00125b85\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\5dceb26707589a12745ce1cbbdbc2c7773a2f2fb\7884330d-1c3e-4c5c-9b55-554f0155ee37\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\5dceb26707589a12745ce1cbbdbc2c7773a2f2fb\c6d42f84-8654-4a51-b67d-1e387232d4da\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\60a4e83bc12a6bab7fba9f922c1a5df0abb0d49b\b860eef5-fa44-42cc-bea4-c413da7a2319\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\62bba599937b7b1dbfd436802b86860f2541d5d9\90681f4d-0410-4bdf-a6bc-52983390cf37\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\6339618476c44afe7b11a1b17af2cabb5a596e4e\01c6fd00-c528-4795-ac2c-e598132690ad\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\76ef9e5953a1ba4578548bb32235240a9f0e0ca2\4149b420-2cfa-4994-b2cd-ffdd6ff5e6de\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\772be0c70dfb60b01f4ab0464ac0ade25de82e9f\bbbf736d-4f22-4a5a-8e5a-7d9546a78aa1\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\7b539bde8ca0807396a791d6ee4db1189d0e5380\7b048d24-5ee5-4335-9dfe-90fbd8791c22\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\7d309b41522c3a3c327db50659d1d25e21afef65\b268e784-564c-4736-b121-18880a1465d0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\867989a2792ba3da5672a3d9c259b0fab56117ff\3d2667cc-af00-4e0a-b536-36b15ec1964b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\867989a2792ba3da5672a3d9c259b0fab56117ff\6df1a30a-989e-42fb-b885-fbe0807eab2f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\8f704b33f00e90fe6ba60f83a59039aecc9cf206\3d82ba29-34ea-4592-8284-3066554b94cc\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\8f7abdeb3486c1b8780fede76afc20e044eff1b5\a6cd476e-597a-42e3-a757-2067f96ca549\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\8f7abdeb3486c1b8780fede76afc20e044eff1b5\aa8a694d-5b51-4aaf-9357-00ff08694b14\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\94bb37fe83f43b35539bf3aea22e93c02d109cc2\7e7fd39f-b6e0-4606-a472-2b32e117244b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\94bb37fe83f43b35539bf3aea22e93c02d109cc2\aed4a783-ada8-4db5-8804-b2d545531c00\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\94bb37fe83f43b35539bf3aea22e93c02d109cc2\cc4465c8-aa22-40b4-b1e7-8d1f91456c5c\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\94bb37fe83f43b35539bf3aea22e93c02d109cc2\f5cd4183-791f-4ebb-a74d-5945a2628498\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\974d5cad73b47fd6dccf488080da16e3233a6e03\1ac1a807-12f0-4ade-82cd-c6e4fe51d914\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\974d5cad73b47fd6dccf488080da16e3233a6e03\37a3d5a1-64ba-4939-a08e-50830560968e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\99b39c2a4e67e3b166fb70fb244a5ba14e44d5fb\543d42e5-b5e2-416e-a5e3-8b1d23086fdc\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\9d4496920779a5289586fb43b67b98c88b69d6da\44fe3d63-e2b9-4f1a-979c-b2a11478cfd3\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a00001bb2dc925c8a9ebdf2384698b2f46ee2231\593cc0a5-f688-4bbf-af96-6182562fc011\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a00001bb2dc925c8a9ebdf2384698b2f46ee2231\6e4989ab-64a0-42ef-b023-b90afd680d1f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a00001bb2dc925c8a9ebdf2384698b2f46ee2231\fba62a88-da58-4bde-bf72-f89301aa10ba\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a00001bb2dc925c8a9ebdf2384698b2f46ee2231\fd8858fa-9380-4c7b-92a3-70fca7070cb0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a0a74304db73132d4bc12ef9404aa74f9fdeda56\35868b57-6fb3-40f5-9423-828213b30334\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a0a74304db73132d4bc12ef9404aa74f9fdeda56\43cbcead-3374-4c69-aa5d-095277cc4cb6\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a63c6f26108aba063e47e01f086871adfc82136f\49133693-ebc4-42f3-8276-3382250a6f10\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a63c6f26108aba063e47e01f086871adfc82136f\d8531980-dc46-4d9e-a465-d8b73350ae5b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a64819d5920fe8ad918f870b4fad0148957dff45\2981b659-17db-41af-b28a-39f8d6adb2e9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a8c65fb626fecc399c55ddb8837842b771e4da80\3202539e-0b75-4b97-b7f2-ec99b7b721ba\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a8c65fb626fecc399c55ddb8837842b771e4da80\573628d4-7c1a-4fb2-8d21-d95f7775b803\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a8c65fb626fecc399c55ddb8837842b771e4da80\ee6627ce-197b-4111-8039-3a6d8071d0b1\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a9bfc10c216e0aacac1bfce11d6845efd7cde75d\db19f3e6-2101-4828-8253-b6f715bd2d0b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a9e61990044ea14ff0ffa01e9b00c15162479815\55715477-2d96-41e9-b8ec-f13cb1b64995\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\a9e61990044ea14ff0ffa01e9b00c15162479815\636d31d9-7a74-46d5-8839-94802726ae89\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\ac287265b5566210d2ef7236b2901fe13f3340b5\f6d9f40c-fee2-45f6-987a-89d601955de9\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\b98637bb7ae2171a737905d5907291f63b4218a2\721b461e-a1a1-4928-b796-081f4cc4cb21\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\bc266fa41530e589d1837d357900ba36c06daddb\422efd89-3c70-4cec-8177-81c31339a121\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c19b506c7275cd62fcc6c44e1519caf2d62b46c8\0a3db87a-96ed-4d4c-81fd-fe2d3e10f3be\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c19b506c7275cd62fcc6c44e1519caf2d62b46c8\0b031043-66ee-46bc-b164-b74dcbc37d2b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c68e494a4097194cf9d95d6878c3077df0a19b0e\715a8ee3-8b19-41c1-a78d-527657f7e197\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c68e494a4097194cf9d95d6878c3077df0a19b0e\9baeea35-e464-4963-89b6-24313c224ab0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\c97bc7c04aa5cb6caf663d986499146dda0be386\df98624f-320c-49c6-937b-d46b785ef9ee\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\cb158d6523c5ab1d740cf75a71a32b211a1c579f\e93fd5a7-5aef-40ec-b623-88ec17432b70\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\d1394a4c842f7861ad7ae5e20da4b484a0c4acad\042f959a-8981-4acd-a9e5-91b1c7160764\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\d1394a4c842f7861ad7ae5e20da4b484a0c4acad\70c433a4-7aa0-4afd-b9e1-b27bc8f66273\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\d1394a4c842f7861ad7ae5e20da4b484a0c4acad\88c50212-7d89-4af5-a646-c1e5a660e6a8\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\d1394a4c842f7861ad7ae5e20da4b484a0c4acad\d1b1a9b5-cd6a-44bf-91dd-3b685d2394d4\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\e67c1f6a379083558ae1517ab8447344c6938b1b\92069bf7-2fa4-430b-b6d8-1d07e2b4c25e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\e67c1f6a379083558ae1517ab8447344c6938b1b\97e48f80-f2db-4ad9-9a44-d8b94012b9d0\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\eed543ca503e67e8e5a00977e789a75b7f3087cc\78a80c69-5e5d-461f-9096-756368b1522f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\eed543ca503e67e8e5a00977e789a75b7f3087cc\a5bf3cd4-3e37-45e7-8f7e-45a555907480\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\eed543ca503e67e8e5a00977e789a75b7f3087cc\bbd7ca53-d01e-4c0d-91a9-430c8352bc9e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\eed543ca503e67e8e5a00977e789a75b7f3087cc\cbdf01f6-b245-4f8a-9340-9204fb064c6e\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\0896fcf6-b0e2-4b88-a929-2a649f5f60f8\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\0e8784b1-518c-42d4-81a8-9bdd57d4eff2\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\197b20ab-d540-46f3-8a42-c7f0a9cf06db\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\1d30ee48-a360-49fd-ad56-0e2bb682ed44\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\2c126b62-4556-44ee-924f-457e05a8f7b1\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\456d7e1d-c9c3-49ea-a9a6-42d81e9f8909\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\4b56bd28-494d-4636-a7e0-ecdd196de88b\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\773f1e99-2673-432d-bcd6-02ef4d64f8c5\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\84dae6e5-f709-4e5c-8d5d-24a9d6b0a1b2\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\8bc41978-981e-4260-989d-6f599533f9d8\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\8f80d50a-0ea9-454c-b58e-8e6fed73f1c2\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\c2cc795c-d111-44b9-ad47-98c755e0fa5f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f278ba7242a4b0474c6478429cbbac36bd73e18d\cfb42ba1-553b-47c1-9381-57fab99e7a87\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\04bbce58-81db-419d-9ca8-c6baf54aa2eb\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\119e466a-2380-487b-99f5-a8667605abee\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\1a8d7ee1-2379-449b-8520-611907933472\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\252d0e36-2ab2-4b77-ab59-d3cd3d50d595\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\2a877b0c-bbfa-4ffb-98fd-f96807870423\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\37bca71b-7edb-4542-9606-bede636c858a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\4d8b4ea4-2a4b-439c-af7f-6e28aa332a3a\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\9ee7d451-4bb8-4d93-b4b2-6d02188c2595\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\f920eb62d4501f16433c526ae52d587a9835333e\e9e54946-4908-44dc-8d47-ed43324d5e1f\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\fa9894c1ce7644056136fc3533040a2a7fc2b66c\05e9af02-e1a5-45f8-82df-1a3206822496\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage\fa9894c1ce7644056136fc3533040a2a7fc2b66c\3297fd32-97b4-4f89-a371-3a795b402821\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\gfdkimpbcpahaombhbimeihdjnejgicl\def\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Guest Profile\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Guest Profile\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\Guest Profile\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\PnaclTranslationCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\ShaderCache\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\System Profile\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\System Profile\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Google\Chrome\User Data\System Profile\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\JetBrains\PyCharmCE2022.2\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\0b4725b0d32d30e48080091627234866cdac6cb8\fc927dc8-2a83-4403-a091-8333a34e677a\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\28da9c56fde4021055a681112c092453f74d8dd8\2e213689-199c-4b9f-a5e3-e4ef64b9445a\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\29eb5eacb05363703a494bbad16a2cdd1da1fb81\4b95c47e-57d8-49de-a4c3-911542c78eaa\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\379f1cbab5b08b6fc9e08681e42d8be311441c88\cad54a2c-e31b-43d1-9925-f4dff50b089e\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\72931251-177f-44aa-a201-b12dac91c59c\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\77e5bbf2-1440-49a4-9d99-4962787c4b6d\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\7ae69d95-0fd2-4b77-bf9a-103ee1055c6b\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\80a7936a-4c64-4151-9ca2-6cac3735a64a\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\af26cf13-36d3-4cda-9644-8ece93a12572\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\af4f6f81-f24c-4a32-88b4-ca1459a98ab9\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\CacheStorage\3cedfb74d44f2e84198d23075aef16c34a668ceb\e584f0f0-da20-4e4a-acfd-a576f5100d79\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\Default\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\GrShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Microsoft\Edge\User Data\ShaderCache\index
+C:\Users\Ashwanth\AppData\Local\NVIDIA Corporation\NVIDIA GeForce Experience\CefCache\Cache\index
+C:\Users\Ashwanth\AppData\Local\NVIDIA Corporation\NVIDIA GeForce Experience\CefCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\NVIDIA Corporation\NVIDIA Share\CefCache\Cache\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalCache\Roaming\Microsoft\Skype for Store\Cache\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalCache\Roaming\Microsoft\Skype for Store\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalCache\Roaming\Microsoft\Skype for Store\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalCache\Roaming\Microsoft\Skype for Store\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\LocalCache\perUserCache_00030000D739FB37\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Service Worker\CacheStorage\a957449e0c17def967fb86220c8cab1d9f0a68fc\290df21b-6dd7-4af5-ad2c-56b32566312c\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Service Worker\CacheStorage\a957449e0c17def967fb86220c8cab1d9f0a68fc\391573f2-6ddd-4318-b822-1605b3454d70\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\GrShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\CacheStorage\a892b700b932fb8ff36350643b5733bd1496c80b\13f81a5c-876f-4dab-b35d-24190c2e3678\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\CacheStorage\a892b700b932fb8ff36350643b5733bd1496c80b\7f53b58f-c52f-4663-bd07-72f4cb498e25\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\ShaderCache\index
+C:\Users\Ashwanth\AppData\Local\pypa\virtualenv\wheel\3.10\image\1\CopyPipInstall\pip-21.3.1-py3-none-any\pip\_internal\index
+C:\Users\Ashwanth\AppData\Local\Spotify\Browser\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Local\Spotify\Browser\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Local\Spotify\Browser\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Local\Spotify\Browser\GPUCache\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\GrShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\LocalLow\webviewdata\2\EBWebView\ShaderCache\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\6261075646f055b99068d3688932416f2346dd3b\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\6261075646f055b99068d3688932416f2346dd3b\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\64bbfbf67ada9953918d72e1df2f4d8e537d340e\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\64bbfbf67ada9953918d72e1df2f4d8e537d340e\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\74b1f979648cc44d385a2286793c226e611f59e7\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\74b1f979648cc44d385a2286793c226e611f59e7\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\8fa188b2b301d36553cbc9ce1b0a146ccb93351f\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\8fa188b2b301d36553cbc9ce1b0a146ccb93351f\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\d045a5eda657f4d7b676dedbfa7aab8207f8a075\chrome\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\CachedData\d045a5eda657f4d7b676dedbfa7aab8207f8a075\chrome\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\1f436a803becca1b73bd2f7e371d36cd9beac264\2f62f62f-30f0-4bcd-9ec0-7000cf1872e9\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\47e473a4619891ca426d075e5e55e399f9796a11\1538755e-b945-45c7-9016-5f0e917b7421\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\50a93f03b4c4faeb55d098e68cc9d3fa19e9a0b6\7ebc6a1e-1e15-4fcb-9e90-a108ec88b447\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\51404600c07cd03d16281119847f44b0e876b391\4c09edeb-20d1-4140-ae9b-d59b638a0c1e\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\b5421a2a3f4e2fccad7a69e56ead767f8d717235\3f66ab67-5a4d-41f1-8398-5e6ee76d1813\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\b828cfe28445164726155d9f401565748294151a\b3c8a349-6068-418f-8a3e-a4fca3061c90\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\b83621c44eb2accfc233847a570fb14e516e0227\c90a264d-589d-4069-8a03-70c70eb8fc5b\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\CacheStorage\e51614cdf47f73d67c8067740f380a4819166bbc\8fbcc180-1c8b-46f5-ac07-55bad5091791\index
+C:\Users\Ashwanth\AppData\Roaming\Code\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Roaming\Code\User\workspaceStorage\2dea48299431d0b3d3a12de03538f043\ms-vscode.js-debug\.profile\ShaderCache\index
+C:\Users\Ashwanth\AppData\Roaming\GitHub Desktop\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\GitHub Desktop\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\GitHub Desktop\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\GitHub Desktop\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\et\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\et\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\et\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\KWPSBubble\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\KWPSBubble\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\KWPSBubble\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\pdf\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\pdf\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wps\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wps\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wps\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wpsoffice\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wpsoffice\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\cache\wpsoffice\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\et\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\et\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\KWPSBubble\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\KWPSBubble\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\KWPSBubble\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\pdf\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\pdf\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wps\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wps\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wps\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wpsoffice\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wpsoffice\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\cef\globalcache\wpsoffice\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\promeapps\cookie\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\promeapps\cookie\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\kingsoft\wps\addons\data\win-i386\promeapps\cookie\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\LGHUB\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\LGHUB\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\LGHUB\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\LGHUB\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Service Worker\CacheStorage\53b563de69a8e9800e38f66c9c19e1e0dbd5106a\bd9187d7-9194-4168-87c7-2cbc61eaf465\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Service Worker\CacheStorage\53b563de69a8e9800e38f66c9c19e1e0dbd5106a\c7e5028c-0aa2-4a6d-9678-a49eaafca8b5\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\d3c67e5e-f3b5-4341-af34-2817b54e52cb\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\dfed57af-cb79-4f44-a13d-9f5e11ee6a54\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\dfed57af-cb79-4f44-a13d-9f5e11ee6a54\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\dfed57af-cb79-4f44-a13d-9f5e11ee6a54\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\dfed57af-cb79-4f44-a13d-9f5e11ee6a54\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_shell\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_shell\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_shell\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_shell\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_d3c67e5e-f3b5-4341-af34-2817b54e52cb\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_d3c67e5e-f3b5-4341-af34-2817b54e52cb\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_d3c67e5e-f3b5-4341-af34-2817b54e52cb\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_null\Cache\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_null\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Postman\Partitions\postman_user_cookies_null\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\Cache\Cache_Data\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\Code Cache\js\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\Code Cache\wasm\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\DawnCache\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\Default\GPUCache\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\GrShaderCache\index
+C:\Users\Ashwanth\AppData\Roaming\Zoom\data\WebviewCacheX64\19xsxnawr1ycffvo5kbydw\zoomapps\vgq4KppeTSuucqC8ckGAYA_MT\EBWebView\ShaderCache\index
+C:\Users\Ashwanth\git\jasper_report\.git\index
+C:\Users\Ashwanth\OneDrive\Desktop\Docs\Eclipse\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.16.0.20200610-1735\org\apache\maven\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Cache\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Code Cache\js\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Code Cache\wasm\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\GPUCache\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Service Worker\CacheStorage\7c129e28a53a20755871f994f1997209760a9724\7541db70-48c8-462c-a4f6-72cf275bc87a\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Launcher\Renderer\Service Worker\ScriptCache\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Renderer\Cache\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Renderer\Code Cache\js\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Renderer\Code Cache\wasm\index
+C:\Users\Ashwanth\OneDrive\Documents\Rockstar Games\Social Club\Renderer\GPUCache\index
+C:\Windows\diagnostics\index
+F:\dict_python\Lib\site-packages\pip\_internal\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\configuration\org.eclipse.help.base\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\401\0\.cp\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\655\0\.cp\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\configuration\org.eclipse.osgi\683\0\.cp\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.18.1.20211011-2139\org\apache\maven\index
+F:\eclipse-jee-2022-06-R-win32-x86_64\Kshin\admitcard-content.pdf\.git\index
+F:\GitHub Desktop\Birthday-gift-card\.git\index
+F:\GitHub Desktop\Birthday_gift\.git\index
+F:\GitHub Desktop\Socreboard\.git\index
+F:\GitHub Desktop\Tourist-Place-Guide\.git\index
+F:\GitHub Desktop\Yarn_Counter\.git\index
+F:\list_assignements\python_control_structures\Lib\site-packages\pip\_internal\index
+F:\python_controlStructures\python_control_structures\Lib\site-packages\pip\_internal\index
+F:\python_func\Lib\site-packages\pip\_internal\index
+F:\python_list\python_control_structures\Lib\site-packages\pip\_internal\index
+F:\python_loops\python_control_structures\Lib\site-packages\pip\_internal\index
+F:\set_assignments\Lib\site-packages\pip\_internal\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.help.base\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\221\0\.cp\org\eclipse\equinox\internal\p2\metadata\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\221\0\.cp\org\eclipse\equinox\p2\metadata\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\245\0\.cp\org\eclipse\help\internal\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\262\0\.cp\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\337\0\.cp\org\eclipse\m2e\core\internal\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\388\0\.cp\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\408\0\.cp\index
+F:\sts-4.16.0.RELEASE\configuration\org.eclipse.osgi\578\0\.cp\org\tukaani\xz\index
+F:\TechLeap\fundamentals_python\Lib\site-packages\pip\_internal\index
+F:\TIBCO\TIB_js-studiocomm_6.20.0_windows_x86_64\jaspersoftstudio\configuration\org.eclipse.help.base\index
+F:\TIBCO\TIB_js-studiocomm_6.20.0_windows_x86_64\jaspersoftstudio\configuration\org.eclipse.osgi\241\0\.cp\index
+F:\TIBCO\TIB_js-studiocomm_6.20.0_windows_x86_64\jaspersoftstudio\configuration\org.eclipse.osgi\280\0\.cp\index
+F:\tuple_assigments\Lib\site-packages\pip\_internal\index
